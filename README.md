@@ -23,7 +23,7 @@
 
      Hacking with Swift Book | Pro Swift Book |   Swift Design Patterns Book
 :-------------------------:|:-------------------------:|:-------------------------:
-<img src="./images/book1.png" width="250" height="310"> |  <img src="./images/book2.png" width="250" height="310"> |  <img src="./images/book3.png" width="250" height="310">
+<img src="./images/book1.png" width="240" height="300"> |  <img src="./images/book2.png" width="240" height="300"> |  <img src="./images/book3.png" width="240" height="300">
 
 
 ### Github Stats 🥇
