@@ -10,7 +10,7 @@
 
 ### My iOS Certificates 🎖
 
-     Hacking with Swift        |         Pro Swift             |   Swift Design Patterns
+ Hacking with Swift Certificate | Pro Swift Certificate |   Swift Design Patterns Certificate
 :-------------------------:|:-------------------------:|:-------------------------:
 <img src="./images/certificate1.jpg" width="250" height="195"> |  <img src="./images/certificate2.jpg" width="250" height="195"> |  <img src="./images/certificate3.jpg" width="250" height="195">
 
@@ -21,7 +21,7 @@
 
 ### iOS Books 📚
 
-     Hacking with Swift       |         Pro Swift           |   Swift Design Patterns
+     Hacking with Swift Book | Pro Swift Book |   Swift Design Patterns Book
 :-------------------------:|:-------------------------:|:-------------------------:
 <img src="./images/book1.png" width="250" height="310"> |  <img src="./images/book2.png" width="250" height="310"> |  <img src="./images/book3.png" width="250" height="310">
 
