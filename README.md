@@ -25,6 +25,9 @@
 :-------------------------:|:-------------------------:|:-------------------------:
 <img src="./images/book1.png" width="250" height="340"> |  <img src="./images/book2.png" width="250" height="340"> |  <img src="./images/book3.png" width="250" height="340">
 
+ Swift Apprentice Book | Expert Swift Book | Auto Layout by Tutorials Book
+:-------------------------:|:-------------------------:|:-------------------------:
+<img src="./images/book4.png" width="250" height="340"> |  <img src="./images/book5.png" width="250" height="340"> |  <img src="./images/book6.png" width="250" height="340">
 
 ### Github Stats 🥇
 
