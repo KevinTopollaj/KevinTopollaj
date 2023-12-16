@@ -12,7 +12,7 @@
 
   SwiftUI Projects                                                             |  UIKit Projects 
 :-----------------------------------------------------------------------------:|:---------------------------------------------------------------:
-  [01-TakeHome Project](KevinTopollaj/SwiftUI-Projects/01-TakeHomeProject_SwiftUI/README.md) |  [01-Banking App](KevinTopollaj/UIKit-Projects/00-Banking_App/README.md)
+  [01-TakeHome Project](https://github.com/KevinTopollaj/SwiftUI-Projects/blob/main/01-TakeHomeProject_SwiftUI/README.md) |  [01-Banking App](KevinTopollaj/UIKit-Projects/00-Banking_App/README.md)
 
 
 ### My iOS Certificates 🎖
