@@ -18,10 +18,10 @@
   [04. The Met App](https://github.com/KevinTopollaj/SwiftUI-Projects/tree/main/04-TheMet) | [04. News App](https://github.com/KevinTopollaj/UIKit-Projects/tree/main/03-News_App)
   [05. Pet Save App](https://github.com/KevinTopollaj/SwiftUI-Projects/tree/main/05-PetSave) | [05. Todo List App](https://github.com/KevinTopollaj/UIKit-Projects/tree/main/04-Todo_List)
   [06. Todo List App](https://github.com/KevinTopollaj/SwiftUI-Projects/tree/main/06-TodoList) | [06. Reminder App](https://github.com/KevinTopollaj/UIKit-Projects/tree/main/05-Reminder_App)
-                                                                            | [07. Bulls Eye Game App](https://github.com/KevinTopollaj/UIKit-Projects/tree/main/06-BullsEye)
-                                                                            | [08. Check List App](https://github.com/KevinTopollaj/UIKit-Projects/tree/main/07-CheckListApp)
-                                                                            | [09. My Locations App](https://github.com/KevinTopollaj/UIKit-Projects/tree/main/08-MyLocations)
-                                                                            | [10. Store Search App](https://github.com/KevinTopollaj/UIKit-Projects/tree/main/09-StoreSearch)
+  | [07. Bulls Eye Game App](https://github.com/KevinTopollaj/UIKit-Projects/tree/main/06-BullsEye)
+  | [08. Check List App](https://github.com/KevinTopollaj/UIKit-Projects/tree/main/07-CheckListApp)
+  | [09. My Locations App](https://github.com/KevinTopollaj/UIKit-Projects/tree/main/08-MyLocations)
+  | [10. Store Search App](https://github.com/KevinTopollaj/UIKit-Projects/tree/main/09-StoreSearch)
 
 
 ### My iOS Certificates 🎖
