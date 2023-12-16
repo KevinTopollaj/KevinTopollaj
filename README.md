@@ -8,7 +8,7 @@
 - 🔗 My Linkedin Profile: [Linkedin](https://www.linkedin.com/in/kevin-topollaj-189b3b154/)
 
 
-### My iOS Portfolio
+### My iOS Portfolio 📱
 
   SwiftUI Projects                                                             |  UIKit Projects 
 :-----------------------------------------------------------------------------:|:---------------------------------------------------------------:
