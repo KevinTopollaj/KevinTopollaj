@@ -12,7 +12,12 @@
 
   SwiftUI Projects                                                             |  UIKit Projects 
 :-----------------------------------------------------------------------------:|:---------------------------------------------------------------:
-  [01-TakeHome Project](https://github.com/KevinTopollaj/SwiftUI-Projects/blob/main/01-TakeHomeProject_SwiftUI/README.md) |  [01-Banking App](KevinTopollaj/UIKit-Projects/00-Banking_App/README.md)
+  [01. TakeHome Project](https://github.com/KevinTopollaj/SwiftUI-Projects/blob/main/01-TakeHomeProject_SwiftUI/README.md) |  [01-Banking App](KevinTopollaj/UIKit-Projects/00-Banking_App/README.md)
+  [02. HIITFit App](https://github.com/KevinTopollaj/SwiftUI-Projects/tree/main/02-HIITFit) |
+  [03. Cards App](https://github.com/KevinTopollaj/SwiftUI-Projects/tree/main/03-Cards)   |
+  [04. The Met App](https://github.com/KevinTopollaj/SwiftUI-Projects/tree/main/04-TheMet) |
+  [05. Pet Save App](https://github.com/KevinTopollaj/SwiftUI-Projects/tree/main/05-PetSave) |
+  [06. Todo List App](https://github.com/KevinTopollaj/SwiftUI-Projects/tree/main/06-TodoList) |
 
 
 ### My iOS Certificates 🎖
