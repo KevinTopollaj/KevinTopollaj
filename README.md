@@ -10,7 +10,7 @@
 
 ### My iOS Portfolio 📱
 
-  SwiftUI Projects                                                             |  UIKit Projects 
+ 🌟 SwiftUI Projects                                                             | ⭐️  UIKit Projects 
 :-----------------------------------------------------------------------------:|:---------------------------------------------------------------:
   [01. TakeHome Project](https://github.com/KevinTopollaj/SwiftUI-Projects/blob/main/01-TakeHomeProject_SwiftUI/README.md) |  [01. Banking App](https://github.com/KevinTopollaj/UIKit-Projects/tree/main/00-Banking_App)
   [02. HIITFit App](https://github.com/KevinTopollaj/SwiftUI-Projects/tree/main/02-HIITFit) | [02. Event Countdown App](https://github.com/KevinTopollaj/UIKit-Projects/tree/main/01-Event_Countdown)
