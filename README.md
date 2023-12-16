@@ -8,6 +8,13 @@
 - 🔗 My Linkedin Profile: [Linkedin](https://www.linkedin.com/in/kevin-topollaj-189b3b154/)
 
 
+### My iOS Portfolio
+
+  SwiftUI Projects                                                             |  UIKit Projects 
+:-----------------------------------------------------------------------------:|:---------------------------------------------------------------:
+  [01-TakeHome Project](SwiftUI-Projects/01-TakeHomeProject_SwiftUI/README.md) |  [01-Banking App](UIKit-Projects/00-Banking_App/README.md)
+
+
 ### My iOS Certificates 🎖
 
  Hacking with Swift Certificate | Pro Swift Certificate |   Swift Design Patterns Certificate
@@ -33,6 +40,9 @@
 :-------------------------:|:-------------------------:|:-------------------------:|
 <img src="./images/book07.png" width="250" height="340"> | <img src="./images/book08.png" width="250" height="340"> | <img src="./images/book09.png" width="250" height="340"> |
 
+Combine: Asynchronous Programming With Swift | SwiftUI Cookbook |
+:-------------------------:| :-------------------------:|
+<img src="./images/book10.png" width="250" height="340"> | <img src="./images/book11.png" width="250" height="340"> |
 
 
 
