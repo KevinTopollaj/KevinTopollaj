@@ -21,7 +21,7 @@
   [07. ChuckNorris Jokes App](https://github.com/KevinTopollaj/SwiftUI-Projects/blob/main/07-ChuckNorrisJokes/README.md) | [07. Bulls Eye Game App](https://github.com/KevinTopollaj/UIKit-Projects/tree/main/06-BullsEye)
   [08. Apple Frameworks App](https://github.com/KevinTopollaj/SwiftUI-Projects/blob/main/08-AppleFrameworks/README.md) | [08. Check List App](https://github.com/KevinTopollaj/UIKit-Projects/tree/main/07-CheckListApp)
   [09. Appetizers App](https://github.com/KevinTopollaj/SwiftUI-Projects/blob/main/09-Appetizers/README.md) | [09. My Locations App](https://github.com/KevinTopollaj/UIKit-Projects/tree/main/08-MyLocations)
-  [10. New] | [10. Store Search App](https://github.com/KevinTopollaj/UIKit-Projects/tree/main/09-StoreSearch)
+  [10. Locations App](https://github.com/KevinTopollaj/SwiftUI-Projects/blob/main/10-Locations/README.md) | [10. Store Search App](https://github.com/KevinTopollaj/UIKit-Projects/tree/main/09-StoreSearch)
 
 
 ### My iOS Certificates 🎖
