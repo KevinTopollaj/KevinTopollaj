@@ -10,8 +10,8 @@
 
 ### My iOS Portfolio 📱
 
- 🌟 SwiftUI Projects                                                             | ⭐️  UIKit Projects 
-:-----------------------------------------------------------------------------:|:---------------------------------------------------------------:
+ 🌟 SwiftUI Projects                                               | ⭐️  UIKit Projects 
+:-----------------------------------------------------------------:|:---------------------------------------------------------------:
   [01. TakeHome Project](https://github.com/KevinTopollaj/SwiftUI-Projects/blob/main/01-TakeHomeProject_SwiftUI/README.md) |  [01. Banking App](https://github.com/KevinTopollaj/UIKit-Projects/tree/main/00-Banking_App)
   [02. HIITFit App](https://github.com/KevinTopollaj/SwiftUI-Projects/tree/main/02-HIITFit) | [02. Event Countdown App](https://github.com/KevinTopollaj/UIKit-Projects/tree/main/01-Event_Countdown)
   [03. Cards App](https://github.com/KevinTopollaj/SwiftUI-Projects/tree/main/03-Cards)   | [03. Photo Browser App](https://github.com/KevinTopollaj/UIKit-Projects/tree/main/02-Photo_Browser)
@@ -23,6 +23,7 @@
   [09. Appetizers App](https://github.com/KevinTopollaj/SwiftUI-Projects/blob/main/09-Appetizers/README.md) | [09. My Locations App](https://github.com/KevinTopollaj/UIKit-Projects/tree/main/08-MyLocations)
   [10. Locations App](https://github.com/KevinTopollaj/SwiftUI-Projects/blob/main/10-Locations/README.md) | [10. Store Search App](https://github.com/KevinTopollaj/UIKit-Projects/tree/main/09-StoreSearch)
   [11. Crypto Portfolio App](https://github.com/KevinTopollaj/SwiftUI-Projects/blob/main/11-CryptoPortfolio/README.md) | 
+  [12. My Events App](https://github.com/KevinTopollaj/SwiftUI-Projects/blob/main/12-MyEvents/README.md) | 
 
 
 ### My iOS Certificates 🎖
