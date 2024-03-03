@@ -51,9 +51,9 @@
 :-------------------------:|:-------------------------:|:-------------------------:|
 <img src="./images/book07.png" width="250" height="340"> | <img src="./images/book08.png" width="250" height="340"> | <img src="./images/book09.png" width="250" height="340"> |
 
-Combine: Asynchronous Programming With Swift | SwiftUI Cookbook |
-:-------------------------:| :-------------------------:|
-<img src="./images/book10.png" width="250" height="340"> | <img src="./images/book11.png" width="250" height="340"> |
+Combine: Asynchronous Programming With Swift | SwiftUI Cookbook | Swift Cookbook |
+:-------------------------:| :-------------------------:|:-------------------------:|
+<img src="./images/book10.png" width="250" height="340"> | <img src="./images/book11.png" width="250" height="340"> | <img src="./images/book12.png" width="250" height="340"> |
 
 
 
