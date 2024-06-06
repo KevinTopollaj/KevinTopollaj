@@ -2,9 +2,9 @@
 
 - 🏆 I'm a Kodeco(Raywenderlich) Founding Member.
 - ⭐️ I’m currently working on creating iOS Apps for more than 5-years.
-- 🌱 I’m currently on my way to Master iOS App Development.
-- 💼 I’m open to collaborate on open source projects that are using SwiftUI or Blockchain technology to create iOS apps.
-- 📫 How to contact with me: kevintopollaj@gmail.com
+- 🌱 I’m on my way to Master iOS App Development.
+- 💼 I’m open to collaborate on open source projects using SwiftUI or Blockchain technology to create iOS apps.
+- 📫 How to contact me: kevintopollaj@gmail.com
 - 🔗 My Linkedin Profile: [Linkedin](https://www.linkedin.com/in/kevin-topollaj-189b3b154/)
 
 
@@ -12,17 +12,17 @@
 
  🌟 SwiftUI Projects                                               | ⭐️  UIKit Projects 
 :-----------------------------------------------------------------:|:---------------------------------------------------------------:
-  [01. iTunes Clone App](https://github.com/KevinTopollaj/iTunesClone) | [01. Banking App](https://github.com/KevinTopollaj/UIKit-Projects/tree/main/00-Banking_App)
-  [02. TakeHome Project](https://github.com/KevinTopollaj/SwiftUI-Projects/blob/main/01-TakeHomeProject_SwiftUI/README.md) |  [02. Event Countdown App](https://github.com/KevinTopollaj/UIKit-Projects/tree/main/01-Event_Countdown)
-  [03. Pet Save App](https://github.com/KevinTopollaj/SwiftUI-Projects/tree/main/05-PetSave) | [03. Photo Browser App](https://github.com/KevinTopollaj/UIKit-Projects/tree/main/02-Photo_Browser)
-  [04. Crypto Portfolio App](https://github.com/KevinTopollaj/SwiftUI-Projects/blob/main/11-CryptoPortfolio/README.md) | [04. News App](https://github.com/KevinTopollaj/UIKit-Projects/tree/main/03-News_App)
-  [05. Appetizers App](https://github.com/KevinTopollaj/SwiftUI-Projects/blob/main/09-Appetizers/README.md) | [05. Reminder App](https://github.com/KevinTopollaj/UIKit-Projects/tree/main/05-Reminder_App)
-  [06. Locations App](https://github.com/KevinTopollaj/SwiftUI-Projects/blob/main/10-Locations/README.md) | [06. My Locations App](https://github.com/KevinTopollaj/UIKit-Projects/tree/main/08-MyLocations)
-  [07. HIITFit App](https://github.com/KevinTopollaj/SwiftUI-Projects/tree/main/02-HIITFit) | [07. Store Search App](https://github.com/KevinTopollaj/UIKit-Projects/tree/main/09-StoreSearch)
-  [08. Cards App](https://github.com/KevinTopollaj/SwiftUI-Projects/tree/main/03-Cards) | [08. Check List App](https://github.com/KevinTopollaj/UIKit-Projects/tree/main/07-CheckListApp)
-  [09. Apple Frameworks App](https://github.com/KevinTopollaj/SwiftUI-Projects/blob/main/08-AppleFrameworks/README.md) | [09. Bulls Eye Game App](https://github.com/KevinTopollaj/UIKit-Projects/tree/main/06-BullsEye)
-  [10. My Events App](https://github.com/KevinTopollaj/SwiftUI-Projects/blob/main/12-MyEvents/README.md) | [10. Todo List App](https://github.com/KevinTopollaj/UIKit-Projects/tree/main/04-Todo_List)
-  [11. ChuckNorris Jokes App](https://github.com/KevinTopollaj/SwiftUI-Projects/blob/main/07-ChuckNorrisJokes/README.md) | 
+  [01. iTunes Clone App](https://github.com/KevinTopollaj/iTunesClone) | [01. GitHub Followers App](https://github.com/KevinTopollaj/GitHub-Followers)
+  [02. TakeHome Project](https://github.com/KevinTopollaj/SwiftUI-Projects/blob/main/01-TakeHomeProject_SwiftUI/README.md) |  [02. Banking App](https://github.com/KevinTopollaj/UIKit-Projects/tree/main/00-Banking_App)
+  [03. Pet Save App](https://github.com/KevinTopollaj/SwiftUI-Projects/tree/main/05-PetSave) | [03. Event Countdown App](https://github.com/KevinTopollaj/UIKit-Projects/tree/main/01-Event_Countdown)
+  [04. Crypto Portfolio App](https://github.com/KevinTopollaj/SwiftUI-Projects/blob/main/11-CryptoPortfolio/README.md) | [04. Photo Browser App](https://github.com/KevinTopollaj/UIKit-Projects/tree/main/02-Photo_Browser)
+  [05. Appetizers App](https://github.com/KevinTopollaj/SwiftUI-Projects/blob/main/09-Appetizers/README.md) | [05. News App](https://github.com/KevinTopollaj/UIKit-Projects/tree/main/03-News_App)
+  [06. Locations App](https://github.com/KevinTopollaj/SwiftUI-Projects/blob/main/10-Locations/README.md) | [06. Reminder App](https://github.com/KevinTopollaj/UIKit-Projects/tree/main/05-Reminder_App)
+  [07. HIITFit App](https://github.com/KevinTopollaj/SwiftUI-Projects/tree/main/02-HIITFit) | [07. My Locations App](https://github.com/KevinTopollaj/UIKit-Projects/tree/main/08-MyLocations)
+  [08. Cards App](https://github.com/KevinTopollaj/SwiftUI-Projects/tree/main/03-Cards) | [08. Store Search App](https://github.com/KevinTopollaj/UIKit-Projects/tree/main/09-StoreSearch)
+  [09. Apple Frameworks App](https://github.com/KevinTopollaj/SwiftUI-Projects/blob/main/08-AppleFrameworks/README.md) | [09. Check List App](https://github.com/KevinTopollaj/UIKit-Projects/tree/main/07-CheckListApp)
+  [10. My Events App](https://github.com/KevinTopollaj/SwiftUI-Projects/blob/main/12-MyEvents/README.md) | [10. Bulls Eye Game App](https://github.com/KevinTopollaj/UIKit-Projects/tree/main/06-BullsEye)
+  [11. ChuckNorris Jokes App](https://github.com/KevinTopollaj/SwiftUI-Projects/blob/main/07-ChuckNorrisJokes/README.md) | [11. Todo List App](https://github.com/KevinTopollaj/UIKit-Projects/tree/main/04-Todo_List)
   [12. The Met App](https://github.com/KevinTopollaj/SwiftUI-Projects/tree/main/04-TheMet) |
   [13. Todo List App](https://github.com/KevinTopollaj/SwiftUI-Projects/tree/main/06-TodoList) | 
   
