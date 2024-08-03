@@ -3,7 +3,7 @@
 - 🏆 I'm a Kodeco(Raywenderlich) Founding Member.
 - ⭐️ I’m currently working on creating iOS Apps.
 - 🌱 I’m currently on my way to Master iOS App Development.
-- 💼 I’m looking to collaborate on open source projects that are using SwiftUI and Blockchain technology.
+- 💼 I’m looking to collaborate on open source projects that are using UIKit or SwiftUI.
 - 📫 How to contact with me: kevintopollaj@gmail.com
 - 🔗 My Linkedin Profile: [Linkedin](https://www.linkedin.com/in/kevin-topollaj-189b3b154/)
 
