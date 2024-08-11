@@ -38,6 +38,10 @@
 :-------------------------:|:-------------------------:|:-------------------------:
 <img src="./images/certificate4.jpeg" width="250" height="195"> |  <img src="./images/certificate5.jpeg" width="250" height="195"> |  <img src="./images/certificate6.jpeg" width="250" height="195">
 
+Testing Swift Certificate |
+:-------------------------:|
+<img src="./images/certificate7.jpg" width="250" height="195">
+
 
 ### My books read for iOS 📚
 
@@ -57,6 +61,9 @@ Combine: Asynchronous Programming With Swift | SwiftUI Cookbook | Swift Cookbook
 :-------------------------:| :-------------------------:|:-------------------------:|
 <img src="./images/book10.png" width="250" height="340"> | <img src="./images/book11.png" width="250" height="340"> | <img src="./images/book12.png" width="250" height="340"> |
 
+Testing Swift |
+:-------------------------:|
+<img src="./images/book13.png" width="250" height="340"> |
 
 
 ### Github Stats 🥇
