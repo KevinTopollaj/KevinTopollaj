@@ -34,9 +34,9 @@
 :-------------------------:|:-------------------------:|:-------------------------:
 <img src="./images/certificate1.jpg" width="250" height="195"> |  <img src="./images/certificate2.jpg" width="250" height="195"> |  <img src="./images/certificate3.jpg" width="250" height="195">
 
-  Data Structures and Algorithms    |  Professional iOS Development |   Level Up in Auto Layout
-:-------------------------:|:-------------------------:|:-------------------------:
-<img src="./images/certificate4.jpeg" width="250" height="195"> |  <img src="./images/certificate5.jpeg" width="250" height="195"> |  <img src="./images/certificate6.jpeg" width="250" height="195">
+  Data Structures and Algorithms    |  Professional iOS Development |   Level Up in Auto Layout |
+:-------------------------:|:-------------------------:|:-------------------------:|
+<img src="./images/certificate4.jpeg" width="250" height="195"> |  <img src="./images/certificate5.jpeg" width="250" height="195"> |  <img src="./images/certificate6.jpeg" width="250" height="195"> |
 
 Testing Swift Certificate |
 :-------------------------:|
