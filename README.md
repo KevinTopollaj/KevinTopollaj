@@ -40,7 +40,7 @@
 
 Testing Swift Certificate |
 :-------------------------:|
-<img src="./images/certificate7.jpg" width="250" height="195">
+<img src="./images/certificate7.jpg" width="250" height="195"> |
 
 
 ### My books read for iOS 📚
