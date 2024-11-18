@@ -61,9 +61,13 @@ Combine: Asynchronous Programming With Swift | SwiftUI Cookbook | Swift Cookbook
 :-------------------------:| :-------------------------:|:-------------------------:|
 <img src="./images/book10.png" width="250" height="340"> | <img src="./images/book11.png" width="250" height="340"> | <img src="./images/book12.png" width="250" height="340"> |
 
-Testing Swift |
-:-------------------------:|
-<img src="./images/book13.png" width="250" height="340"> |
+Testing Swift |  SwiftUI by Tutorials | Push Notifications by Tutorials |
+:-------------------------:| :-------------------------:| :-------------------------:|
+<img src="./images/book13.png" width="250" height="340"> | <img src="./images/book14.png" width="250" height="340"> | <img src="./images/book15.png" width="250" height="340"> |
+
+Concurrency by Tutorials |   Modern Concurrency in Swift | 
+:-------------------------:| :-------------------------:| 
+<img src="./images/book16.png" width="250" height="340"> | <img src="./images/book17.png" width="250" height="340"> |
 
 
 ### Github Stats 🥇
