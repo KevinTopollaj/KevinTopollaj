@@ -9,7 +9,7 @@
 - 🔗 Let’s connect on LinkedIn: [LinkedIn](https://www.linkedin.com/in/kevin-topollaj-189b3b154/)
 
 
-### Open Source Portfolio 🤝
+### 🤝 Open Source Portfolio 
 
  🌟 SwiftUI Projects                                               | ⭐️  UIKit Projects 
 :-----------------------------------------------------------------:|:---------------------------------------------------------------:
@@ -17,7 +17,7 @@
   [02. iTunes Clone App](https://github.com/KevinTopollaj/iTunesClone) | [02. Banking App](https://github.com/KevinTopollaj/Banking_App)
 
 
-### Projects from Books & Courses 🎓
+### 🎓 Projects from Books & Courses 
 
  🌟 SwiftUI Projects                                               | ⭐️  UIKit Projects 
 :-----------------------------------------------------------------:|:---------------------------------------------------------------:
@@ -35,7 +35,7 @@
   
 
 
-### iOS Certifications 🎖
+### 🎖 iOS Certifications 
 
  Hacking with Swift Certificate | Pro Swift Certificate |   Swift Design Patterns Certificate
 :-------------------------:|:-------------------------:|:-------------------------:
@@ -50,7 +50,7 @@ Testing Swift Certificate |
 <img src="./images/certificate7.jpg" width="250" height="195"> |
 
 
-### Books That Shaped My iOS Journey 📚
+### 📚 Books That Shaped My iOS Journey 
 
  Hacking with Swift Book | Pro Swift Book | Swift Design Patterns Book
 :-------------------------:|:-------------------------:|:-------------------------:
@@ -77,11 +77,11 @@ Concurrency by Tutorials |   Modern Concurrency in Swift |
 <img src="./images/book16.png" width="250" height="340"> | <img src="./images/book17.png" width="250" height="340"> |
 
 
-### Github Stats 🥇
+### 🥇 Github Stats 
 
 ![Kevin's github stats](https://github-readme-stats.vercel.app/api?username=KevinTopollaj&show_icons=true&hide_border=true&theme=dark)
 
 
-### Programming Language 😍
+### 😍 Programming Language 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KevinTopollaj&layout=compact&theme=dark&hide_border=true)
