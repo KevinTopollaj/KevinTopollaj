@@ -9,7 +9,7 @@
 - 🔗 Let’s connect on LinkedIn: [LinkedIn](https://www.linkedin.com/in/kevin-topollaj-189b3b154/)
 
 
-### 🤝 Open Source Portfolio 
+### 📱 Open Source Portfolio 
 
  🌟 SwiftUI Projects                                               | ⭐️  UIKit Projects 
 :-----------------------------------------------------------------:|:---------------------------------------------------------------:
