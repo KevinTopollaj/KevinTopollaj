@@ -14,7 +14,7 @@
  🌟 SwiftUI Projects                                               | ⭐️  UIKit Projects 
 :-----------------------------------------------------------------:|:---------------------------------------------------------------:
   [01. TakeHome Project](https://github.com/KevinTopollaj/SwiftUI-Projects/blob/main/01-TakeHomeProject_SwiftUI/README.md) | [01. GitHub Followers App](https://github.com/KevinTopollaj/GitHub-Followers)
-	[02. iTunes Clone App](https://github.com/KevinTopollaj/iTunesClone) | [02. Banking App](https://github.com/KevinTopollaj/Banking_App)
+  [02. iTunes Clone App](https://github.com/KevinTopollaj/iTunesClone) | [02. Banking App](https://github.com/KevinTopollaj/Banking_App)
 
 
 ### Projects from Books & Courses 🎓
