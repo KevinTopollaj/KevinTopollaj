@@ -1,7 +1,7 @@
 ### Hi there, I’m Kevin 👋
 
 - 🚀 iOS Software Engineer with 6 years of experience in creating scalable and maintainable iOS applications.
-- 🏆 Proud Kodeco (Raywenderlich) Founding Member, constantly learning and sharing knowledge.
+- 🏆 Kodeco (Raywenderlich) Founding Member, constantly learning and sharing knowledge.
 - ⭐️ Interested in building impactful iOS apps that solve real-world problems.
 - 🌱 On a journey to master iOS app development.
 - 💼 Excited to collaborate on open-source projects leveraging UIKit or SwiftUI.
