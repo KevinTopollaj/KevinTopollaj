@@ -15,7 +15,7 @@
 :-----------------------------------------------------------------:|:---------------------------------------------------------------:
   [01. Bike Stations App](https://github.com/KevinTopollaj/BikeStations_App) | [01. GitHub Followers App](https://github.com/KevinTopollaj/GitHub-Followers)
   [02. TakeHome Project](https://github.com/KevinTopollaj/TakeHome_Project) | [02. Banking App](https://github.com/KevinTopollaj/Banking_App)
-  [03. iTunes Clone App](https://github.com/KevinTopollaj/iTunesClone) | 
+  [03. iTunes Clone App](https://github.com/KevinTopollaj/iTunesClone) | [03. Reminders App](https://github.com/KevinTopollaj/Reminder_App)
 
 
 ### 🎓 Projects from Books & Courses 
